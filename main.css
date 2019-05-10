@@ -1,0 +1,102 @@
+* {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: normal;
+}
+
+
+b {
+    font-size: 1.3em;
+    color: #E81050
+}
+
+
+
+#programing-section .header-btn {
+    font-size: 20px;
+
+}
+
+#programing-section .card-header h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+    line-height: 1em;
+}
+
+#programing-section .card-body {
+    padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+    font-size: 0.8rem;
+
+}
+
+#programing-section .btn-link {
+    color: var(--grey);
+    font-size: 1rem;
+}
+
+#programing-section .text-rightside {
+    text-align: right;
+}
+
+#programing-section .right-box {
+    padding-top: 1.5rem;
+    padding-left: 3rem;
+}
+
+.card-img {
+    border-radius: 0;
+    height: ;
+}
+
+
+
+#programing-intro-right {
+    display: block
+}
+
+#programing-intro-top {
+    display: none
+}
+
+@media (max-width: 991.98px) {
+    #programing-section .text-rightside {
+        padding: 0 3em 0 3em;
+
+        text-align: left
+    }
+
+    #programing-section .right-box {
+        padding: 0 4em 0 4em;
+    }
+
+    #programing-intro-right {
+        display: none
+    }
+
+    #programing-intro-top {
+        display: block
+    }
+}
+
+
+#otherstuff-section .carousel {
+    height: 20em;
+    overflow: hidden;
+    
+}
+
+
+#otherstuff-section img {
+   margin: 0 auto;
+
+}
+
+
+#otherstuff-design-0 img{
+    height: 100%;
+}
+
+
